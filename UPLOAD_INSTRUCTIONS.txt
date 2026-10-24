@@ -1,0 +1,1 @@
+Upload index.html, face.png and .nojekyll to the ROOT of endrax-v6 branch. Do not upload the ZIP itself. Keep README.md untouched. In Settings > Pages choose Deploy from a branch > endrax-v6 > /(root). Check published page URL ends github.io/endrax-ai-/ (not github.com).
